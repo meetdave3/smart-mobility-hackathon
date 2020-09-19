@@ -117,7 +117,7 @@ const Map = () => {
     <div>
       <div className='sidebarStyle'>
         <div>
-          Smart Mobility Hackathon
+          Smart Mobility Hackathon 2020 - Team 19
         </div>
       </div>
       <div className='map-container' ref={mapContainerRef} />
