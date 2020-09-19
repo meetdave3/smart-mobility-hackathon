@@ -2,6 +2,7 @@
 
 - Meet Dave
 - Petru Conduraru
+- Celina Negro
 
 ## Why? 
 
