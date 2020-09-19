@@ -13,10 +13,10 @@ By finding patterns & drawing map clusters based on the factors that may have in
 
 ## Input Data? 
 
-Road: E39
-Duration: 2011 - now
-Number of accidents? - 274
-Data downloaded from https://vegkart.atlas.vegvesen.no/#kartlag:geodata/@-50359,6747758,11/hva:~(~(id~570))/valgt:230286018:570
+- Road: E39
+- Duration: 2011 - now
+- Number of accidents? - 274
+- Data downloaded from https://vegkart.atlas.vegvesen.no/#kartlag:geodata/@-50359,6747758,11/hva:~(~(id~570))/valgt:230286018:570
 
 ## Analysis: Same type of accidents occurring at the same place
 
