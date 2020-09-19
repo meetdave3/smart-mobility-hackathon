@@ -48,15 +48,6 @@ Similar accident patterns can be found across all roads. Automated mitigation pl
 
 
 
-## Factor considered in this proof of concept? 
-
-Dark visibility without lights
-
-
-
-
-
-
 
 ## Other possible factors that can be switched to? 
 
