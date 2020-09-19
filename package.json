@@ -1,0 +1,34 @@
+{
+  "name": "mobility-hackathon",
+  "version": "0.1.0",
+  "dependencies": {
+    "@turf/turf": "^5.1.6",
+    "@turf/nearest-point": "6.0.1",
+    "@turf/distance": "6.0.1",
+    "convert-csv-to-json": "1.0.0",
+    "csvtojson": "2.0.10",
+    "mapbox-gl": "^1.11.1",
+    "nodemon": "2.0.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.3",
+    "utm-latlng": "^1.0.6"
+  },
+  "scripts": {
+    "devmon": "nodemon get-close-points.js",
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
