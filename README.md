@@ -80,3 +80,4 @@ Dark visibility without lights
 - Direction of sun shine (if skies are clear?)
 - Wind speed (if weather was stormy?)
 - Weather data at time of accident (if it can be possibly retrieved from car sensors?)
+- Car speed at the time of accident (if it can be possibly retrieved from car sensors?)
