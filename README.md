@@ -72,3 +72,8 @@ Similar accident patterns can be found across all roads. Automated mitigation pl
 - Wind speed (if weather was stormy?)
 - Weather data at time of accident (if it can be possibly retrieved from car sensors?)
 - Car speed at the time of accident (if it can be possibly retrieved from car sensors?)
+
+
+## Open for all - Contribute!
+
+Open for issues and PR 
