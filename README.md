@@ -2,6 +2,7 @@
 
 - Meet Dave
 - Petru Conduraru
+- Celina Negro
 
 ## Why? 
 
@@ -28,9 +29,12 @@ By finding patterns & drawing map clusters based on the factors that may have in
 - Number of accidents? - 274
 - Data downloaded from https://vegkart.atlas.vegvesen.no/#kartlag:geodata/@-50359,6747758,11/hva:~(~(id~570))/valgt:230286018:570
 
-
-
-
+### Information from the API data?
+- Number of serious injuries
+- Kilometres driven by the car
+- Weather temperature
+- Road width
+- Light condition
 
 
 ## Analysis: Same type of accidents occurring at the same place
@@ -58,19 +62,13 @@ Imrove road lighting | Completed | 10th September 2014 | 1
 
 
 
-### From the API data
-- Number of serious injuries
-- Kilometres driven by the car
-- Weather temperature
-- Road width
-
-
-
-
-
-
 ### Other factors that can be considered (not received from API at present)
 - Direction of sun shine (if skies are clear?)
 - Wind speed (if weather was stormy?)
 - Weather data at time of accident (if it can be possibly retrieved from car sensors?)
 - Car speed at the time of accident (if it can be possibly retrieved from car sensors?)
+
+
+## Open for all - Contribute!
+
+Open for issues and PR 
