@@ -49,7 +49,7 @@ Similar accident patterns can be found across all roads. Automated mitigation pl
 
 
 Mitigation Plan | Status | Last updated | Accidents since execution
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+--- | --- | --- | --- 
 Imrove road lighting | Completed | 10th September 2014 | 1 
 
 
