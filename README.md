@@ -1,9 +1,5 @@
 # Smart Mobility Hackathon 2020
 
-- Meet Dave
-- Petru Conduraru
-- Celina Negro
-
 ## Why? 
 
 Reduce accident incidents
@@ -67,8 +63,3 @@ Imrove road lighting | Completed | 10th September 2014 | 1
 - Wind speed (if weather was stormy?)
 - Weather data at time of accident (if it can be possibly retrieved from car sensors?)
 - Car speed at the time of accident (if it can be possibly retrieved from car sensors?)
-
-
-## Open for all - Contribute!
-
-Open for issues and PR 
